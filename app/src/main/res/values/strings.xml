@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts to SIM</string>
+    <string name="target_sim">Copy to</string>
+    <string name="view_sim">View SIM</string>
+    <string name="search_hint">Search name or number</string>
+    <string name="select_all">Select all</string>
+    <string name="copy">Copy to SIM</string>
+    <string name="copy_n">Copy %1$d to SIM</string>
+    <string name="count_text">%1$d selected of %2$d</string>
+    <string name="loading">Loading contacts…</string>
+    <string name="no_contacts">No phone contacts found.</string>
+    <string name="reading_sim">Reading SIM…</string>
+    <string name="sim_info_full">SIM: %1$d of %2$d used · %3$d free · names up to %4$d letters</string>
+    <string name="sim_info_basic">Contacts on SIM: %1$d (most SIMs hold about 250)</string>
+    <string name="confirm_title">Copy to SIM?</string>
+    <string name="confirm_msg">Copy %1$d contacts to %2$s?\n\nLong names are shortened to fit the SIM, and numbers already on the SIM are skipped.</string>
+    <string name="copying">Copying %1$d / %2$d…</string>
+    <string name="done_short">Done: %1$d copied</string>
+    <string name="result_title">Finished</string>
+    <string name="result_msg">Copied: %1$d\nAlready on SIM (skipped): %2$d\nSIM full (not copied): %3$d\nFailed: %4$d</string>
+    <string name="failed_list">Failed:</string>
+    <string name="error_detail">Error: %1$s</string>
+    <string name="zero_ok_hint">Nothing could be written. Make sure a SIM is inserted and unlocked, pick the other SIM if you have two, or restart the phone and try again.</string>
+    <string name="on_sim_title">On SIM (%1$d)</string>
+    <string name="sim_empty">No contacts on this SIM yet.</string>
+    <string name="permission_title">Permission needed</string>
+    <string name="need_permission">Contacts permission is needed to read your contacts and write them to the SIM.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="retry">Try again</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_copy">Cancel copy</string>
+    <string name="copy_cancelled">Copy cancelled</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Delete SIM contact?</string>
+    <string name="delete_msg">Delete \"%1$s\" from the SIM?</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_all_title">Delete all SIM contacts?</string>
+    <string name="delete_all_msg">Delete all %1$d contacts from the SIM? This cannot be undone.</string>
+    <string name="deleted_n">Deleted %1$d contacts</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="filter_all">All sources</string>
+    <string name="sort_name">Sort by name</string>
+    <string name="no_results">No contacts match your search.</string>
+</resources>
